@@ -1,0 +1,6 @@
+Hi {{name}},
+
+I wanted to follow up on our previous conversation.
+
+Best regards,
+{{sender}}
