@@ -6,7 +6,7 @@ import os
 class EmailConfig:
     """Email configuration class"""
     SENDER_EMAIL = "lunaris4452@gmail.com"
-    SENDER_PASSWORD = "jvyweyxvoznpmndt"  # Consider using environment variables for sensitive data
+    SENDER_PASSWORD = "your gmail app password"  # Consider using environment variables for sensitive data
     SMTP_SERVER = "smtp.gmail.com"
     SMTP_PORT = 465
 
